@@ -1,0 +1,23 @@
+colour
+race
+religion/religious beliefs
+national or ethnic origin
+age
+sex
+sexual orientation
+gender identity or expression
+mental or physical disability
+ancestry
+marital status
+source of income 
+family status
+indigenous identity
+place of origin
+creed
+political belief
+political association
+social condition
+receipt of public assistance
+a conviction that is subject to a pardon or record suspension
+serious disease
+immigration status
